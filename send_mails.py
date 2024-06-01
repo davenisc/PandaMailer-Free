@@ -2,8 +2,8 @@ import csv
 import requests
 
 # Credenciales de MailJet
-MAILJET_API_KEY = '75c4b525000497bcc37204b838ae79af'
-MAILJET_API_SECRET = 'b0208a948c179b5611fd811a1441454a'
+MAILJET_API_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+MAILJET_API_SECRET = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 MAILJET_API_URL = 'https://api.mailjet.com/v3.1/send'
 
 
