@@ -54,8 +54,8 @@ def enviar_correo(nombre, correo, url, url_python=None):
         'Messages': [
             {
                 'From': {
-                    'Email': 'holamundo@pythonautas.dev',
-                    'Name': 'Pythonautas',
+                    'Email': 'tu-correo-registrado-mailjet',
+                    'Name': 'tu-nombre',
                 },
                 'To': [
                     {
@@ -63,8 +63,8 @@ def enviar_correo(nombre, correo, url, url_python=None):
                         'Name': nombre,
                     }
                 ],
-                'Subject': 'IV congreso Areandina ¡Reclama tu POAP!',
-                'TextPart': f'Hola {nombre}, reclama tu POAP aquí: {url}',
+                'Subject': 'Titulo-del-correo',
+                'TextPart': f'texto {nombre}, adicional: {url}',
                 'HTMLPart': html_part
             }
         ]
