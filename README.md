@@ -83,7 +83,6 @@ Uso
 
 # *Ejemplo de Uso*
 
-    ```bash
     Selecciona el tipo de envío:
     1. Envío Manual
     2. Envío Automático
@@ -101,12 +100,14 @@ Uso
 # Contribución
 ¡Las contribuciones son bienvenidas! Si deseas contribuir a PandaMailer, por favor sigue estos pasos:
 
-Haz un fork del repositorio.
-Crea una nueva rama (git checkout -b feature/nueva-caracteristica).
-Realiza tus cambios y haz commit (git commit -m 'Agregar nueva característica').
-Empuja a la rama (git push origin feature/nueva-caracteristica).
-Abre un Pull Request.
-Licencia
+  * Haz un fork del repositorio.
+  * Crea una nueva rama (git checkout -b feature/nueva-caracteristica).
+  * Realiza tus cambios y haz commit (git commit -m 'Agregar nueva característica').
+  * Empuja a la rama (git push origin feature/nueva-caracteristica).
+  * Abre un Pull Request.
+    
+# *Licencia*
+
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
 
