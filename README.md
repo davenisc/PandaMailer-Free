@@ -14,12 +14,14 @@ PandaMailer es una herramienta poderosa para el envío masivo de correos electr�
 - **Versión 1.0.1**:
   - Seguimiento de aperturas 📬.
   - Visualiza quiénes abren tus correos y optimiza tus campañas.
-  - Precio 10 USD
+  - Precio 50 USD
+  - Precio implementación no obligatorio : 20 USD
 
 - **Versión 1.1.0**:
   - ¡Generación de informes en PDF! 📊.
   - Obtén reportes detallados con gráficos y estadísticas de tus envíos.
-  - Precio 10 USD
+  - Precio 50 USD
+  - Precio implementación no obligatorio: 20 USD
 
 ## Instalación
 
