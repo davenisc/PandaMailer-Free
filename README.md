@@ -97,6 +97,19 @@ Uso
     Correo enviado a Jane Doe <janedoe@example.com>
     Total de correos enviados: 2
 
+# *Resumen de las nuevas plantillas*
+
+  * template1.html: Plantilla original.
+  * template2.html: Plantilla original.
+  * template3.html: Plantilla para invitación a eventos.
+  * template4.html: Plantilla para newsletters.
+  * template5.html: Plantilla para campañas de marketing.
+  * template6.html: Plantilla para conferencias.
+  * template7.html: Plantilla para promociones especiales.
+  * template8.html: Plantilla para nuevas funcionalidades.
+  * template9.html: Plantilla para actualizaciones de producto.
+  * template10.html: Plantilla para ofertas exclusivas.
+
 # Contribución
 ¡Las contribuciones son bienvenidas! Si deseas contribuir a PandaMailer, por favor sigue estos pasos:
 
