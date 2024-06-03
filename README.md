@@ -8,13 +8,13 @@ PandaMailer es una herramienta poderosa para el envío masivo de correos electr�
 
 ## Características
 
-- **Versión 1.0.0**: 🐼
+- **Versión 1.0.0**: 🐼 Free version
   - Envía correos masivos utilizando un archivo CSV.
   - Hasta 6000 correos gratis por mes con MailJet.
   - Hasta 1500 contactos gratis por mes con MailJet.
   - Free
 
-- **Versión 1.0.1**: 🐼
+- **Versión 1.0.1**: 🐼 Pro version
   - Seguimiento de aperturas 📬.
   - Visualiza quiénes abren tus correos y optimiza tus campañas.
   - Envía correos masivos utilizando un archivo CSV.
@@ -24,7 +24,7 @@ PandaMailer es una herramienta poderosa para el envío masivo de correos electr�
   - Precio 50 USD
   - Precio implementación no obligatorio : 20 USD
 
-- **Versión 1.1.0**: 🐼
+- **Versión 1.1.0**: 🐼 Pro version
   - Seguimiento de aperturas 📬.
   - Visualiza quiénes abren tus correos y optimiza tus campañas.
   - Envía correos masivos utilizando un archivo CSV.
