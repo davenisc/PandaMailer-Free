@@ -1,5 +1,7 @@
 # PandaMailer-Free
 
+<a href="https://ibb.co/h1MYD7z"><img src="https://i.ibb.co/Wp3VgxJ/Panda-Mailer.png" alt="Panda-Mailer" border="0"></a>
+
 # PandaMailer 🐼
 
 PandaMailer es una herramienta poderosa para el envío masivo de correos electrónicos utilizando Python y la API de MailJet. Ideal para campañas de marketing, newsletters y mucho más. Con PandaMailer, simplemente usa una plantilla CSV con las columnas nombre, correo y link, y deja que nuestro script haga el resto.
