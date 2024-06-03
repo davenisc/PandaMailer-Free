@@ -114,9 +114,17 @@ Uso
 
 # *Screenshots*
 
-<a href="https://ibb.co/gWBv4fX"><img src="https://i.ibb.co/3FLfRj8/Captura-de-pantalla-2024-06-01-143627.png" alt="Captura-de-pantalla-2024-06-01-143627" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
-
 <a href="https://ibb.co/pZ8CfpN"><img src="https://i.ibb.co/ft5mk7Z/Captura-de-pantalla-2024-06-01-141058.png" alt="Captura-de-pantalla-2024-06-01-141058" border="0"></a>
+
+<a href="https://ibb.co/gWBv4fX"><img src="https://i.ibb.co/3FLfRj8/Captura-de-pantalla-2024-06-01-143627.png" alt="Captura-de-pantalla-2024-06-01-143627" border="0"></a>
+
+<a href="https://ibb.co/1bCMKj6"><img src="https://i.ibb.co/yVzp57S/Captura-de-pantalla-2024-06-01-143740.png" alt="Captura-de-pantalla-2024-06-01-143740" border="0"></a>
+
+<a href="https://ibb.co/YtmjStv"><img src="https://i.ibb.co/cN0T9Nz/Captura-de-pantalla-2024-06-03-094216.png" alt="Captura-de-pantalla-2024-06-03-094216" border="0"></a>
+
+<a href="https://ibb.co/QkvHNxP"><img src="https://i.ibb.co/ScwmnZt/Captura-de-pantalla-2024-06-01-154431.png" alt="Captura-de-pantalla-2024-06-01-154431" border="0"></a>
+
+<a href="https://ibb.co/BgzQt8M"><img src="https://i.ibb.co/Cn1YzxG/Captura-de-pantalla-2024-06-01-154451.png" alt="Captura-de-pantalla-2024-06-01-154451" border="0"></a>
 
 # Contribución
 ¡Las contribuciones son bienvenidas! Si deseas contribuir a PandaMailer, por favor sigue estos pasos:
